@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">WeWatch</string>
+    <string name="provide_title_message">You need to provide a title</string>
+</resources>
